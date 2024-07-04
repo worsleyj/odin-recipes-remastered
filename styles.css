@@ -10,3 +10,13 @@ h1 {
     background-color: blue;
     border: solid black;
 }
+
+.one {
+    font-weight: 1000;
+    text-align: end;
+}
+
+.two {
+    font-weight: bolder;
+    text-align: center;
+}

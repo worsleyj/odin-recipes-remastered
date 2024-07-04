@@ -1,0 +1,12 @@
+h1 {
+    color: purple;
+}
+
+.test {
+    background-color: red;
+}
+
+.test2 {
+    background-color: blue;
+    border: solid black;
+}

@@ -20,3 +20,8 @@ h1 {
     font-weight: bolder;
     text-align: center;
 }
+
+img {
+    height: auto;
+    width: 50%;
+}

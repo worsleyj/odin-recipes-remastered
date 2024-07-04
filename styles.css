@@ -1,27 +1,22 @@
-h1 {
-    color: purple;
-}
-
-.test {
-    background-color: red;
-}
-
-.test2 {
-    background-color: blue;
-    border: solid black;
-}
-
-.one {
-    font-weight: 1000;
-    text-align: end;
-}
-
-.two {
-    font-weight: bolder;
+* {
     text-align: center;
 }
 
-img {
-    height: auto;
-    width: 50%;
+a {
+    border: solid black;
+    margin: 30px;
+    padding: 10px;
+    background-color: orange;
+}
+
+h1, p, img {
+    border: solid 5px;
+    padding: 10px;
+    background-color: orange;
+}
+
+body {
+    background-color: slategray;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
 }
